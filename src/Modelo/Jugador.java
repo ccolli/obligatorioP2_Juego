@@ -11,5 +11,6 @@ package Modelo;
  */
 public class Jugador {
     ///sadaslñdaskdkñasd
+    //asdasdasdasd
 //asdnasjdljasdkjlajskdjalsjdljklasjdlajslkdjlasjdalskj    
 }

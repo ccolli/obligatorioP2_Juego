@@ -11,4 +11,5 @@ package Modelo;
  */
 public class Ficha {
     //PLADA SE LA COME
+    // seguro
 }

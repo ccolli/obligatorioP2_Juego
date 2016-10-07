@@ -10,5 +10,5 @@ package Modelo;
  * @author ccoll
  */
 public class Ficha {
-    
+    //PLADA SE LA COME
 }
